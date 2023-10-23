@@ -1,7 +1,9 @@
 
+### Node Version
+    `v14.X.X`
 
 ### Project initialization
-  After pulling the repository, Execute the below command
+  After cloning the repository, Execute the below command for installing the dependency from npm.
   `npm i`
 
 ### Environment file creation
